@@ -1,0 +1,92 @@
+[
+  {
+    "event_id": "EVT-001",
+    "timestamp": "2026-10-12T08:00:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-002",
+    "timestamp": "2026-10-12T08:02:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-003",
+    "timestamp": "2026-10-12T08:04:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-004",
+    "timestamp": "2026-10-12T08:06:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-005",
+    "timestamp": "2026-10-12T08:08:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-006",
+    "timestamp": "2026-10-12T08:10:00Z",
+    "user": "alex.morgan@example.test",
+    "event_type": "signin",
+    "result": "success",
+    "ip_address": "192.0.2.10",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-007",
+    "timestamp": "2026-10-12T09:15:00Z",
+    "user": "sarah.connor@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "203.0.113.50",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-008",
+    "timestamp": "2026-10-12T09:16:00Z",
+    "user": "sarah.connor@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "203.0.113.50",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-009",
+    "timestamp": "2026-10-12T09:18:00Z",
+    "user": "sarah.connor@example.test",
+    "event_type": "signin",
+    "result": "failure",
+    "ip_address": "203.0.113.50",
+    "source": "synthetic"
+  },
+  {
+    "event_id": "EVT-010",
+    "timestamp": "2026-10-12T10:00:00Z",
+    "user": "jamie.lee@example.test",
+    "event_type": "signin",
+    "result": "success",
+    "ip_address": "192.0.2.20",
+    "source": "synthetic"
+  }
+]
